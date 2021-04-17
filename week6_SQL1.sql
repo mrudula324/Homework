@@ -1,7 +1,12 @@
 --1.Show all customers whose last names start with T.Order them by first name from A-Z.
 /*
 select * from customer
+<<<<<<< HEAD
 where first_name like 'T%';
+=======
+where last_name like 'T%'
+order by first_name;
+>>>>>>> 537d1aca5393ddd5acfcd9537b38c1919bdc079a
 */
 
 --2.Show all rentals returned from 5/28/2005 to 6/1/2005
