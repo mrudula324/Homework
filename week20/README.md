@@ -2,3 +2,4 @@
 
 ## Steps Involved:
 1. A text file with text data is stored a folder.
+![Screenshot](screenshot.png)
