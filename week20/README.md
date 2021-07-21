@@ -1,4 +1,4 @@
 # heading
 
 1.
-![Screenshot](screenshot1.png)
+![Screenshot1](screenshot1.png)
